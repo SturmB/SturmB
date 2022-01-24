@@ -39,6 +39,15 @@
 <br />
 <br />
 
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...][website]
+
 [website]:https://chrismcgee.info
 [youtube]:https://www.youtube.com/sturmb
 [twitter]:https://twitter.com/SturmB
