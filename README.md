@@ -44,6 +44,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Plugins to Load in Generator-Core](https://chrismcgee.info/getting-plugins-to-load-in-generator-core/)
+- [Why Your Generator App Isn’t Connecting to Adobe Photoshop](https://chrismcgee.info/why-your-generator-app-isnt-connecting-to-adobe-photoshop/)
+- [Getting NW.js to run on Windows](https://chrismcgee.info/getting-nwjs-to-run-on-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
