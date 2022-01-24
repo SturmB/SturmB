@@ -60,6 +60,10 @@
 
 ➡️ [more videos...][youtube]
 
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SturmB)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]:https://chrismcgee.info
 [youtube]:https://www.youtube.com/sturmb
 [twitter]:https://twitter.com/SturmB
