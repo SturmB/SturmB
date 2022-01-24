@@ -48,6 +48,15 @@
 
 ➡️ [more blog posts...][website]
 
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...][youtube]
+
 [website]:https://chrismcgee.info
 [youtube]:https://www.youtube.com/sturmb
 [twitter]:https://twitter.com/SturmB
