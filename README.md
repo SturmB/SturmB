@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Let&#39;s get psyched up! - Psychonauts](https://www.youtube.com/watch?v=QaL1O2W6ZJc)
 - [Let&#39;s get psyched up! - Psychonauts](https://www.youtube.com/watch?v=A1seeWJ6-d4)
 - [A Golden Oldie - Psychonauts!](https://www.youtube.com/watch?v=wbYQbGNBbYQ)
 - [A Golden Oldie - Psychonauts!](https://www.youtube.com/watch?v=cR3VVEZzD4A)
 - [Testing Restream](https://www.youtube.com/watch?v=hpZHZquRnzM)
+- [Virtual Virtual Reality - Let&#39;s Play &quot;Outer Wilds: Echoes of the Eye&quot; - part 4 &lpar;SSA 262&rpar;](https://www.youtube.com/watch?v=laU6dNgRThw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
