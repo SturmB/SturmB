@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [We still have a dirty mind...  Or two, or three... To clean up!](https://www.youtube.com/watch?v=JOL6aj7NmNU)
 - [Leaving Baggage Behind - Psychonauts](https://www.youtube.com/watch?v=uEnV33j3lFA)
 - [Let&#39;s get psyched! - Psychonauts](https://www.youtube.com/watch?v=S91NFPQUHnI)
 - [Let&#39;s get psyched! - Psychonauts](https://www.youtube.com/watch?v=GHovWj7VizI)
 - [Let&#39;s get psyched up! - Psychonauts](https://www.youtube.com/watch?v=QaL1O2W6ZJc)
-- [Let&#39;s get psyched up! - Psychonauts](https://www.youtube.com/watch?v=A1seeWJ6-d4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
