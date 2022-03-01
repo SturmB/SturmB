@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [A Heartbeat Away - Extra Life 2021 - &quot;Tomb Raider Gold&quot; - part 13 &lpar;SSA 275&rpar;](https://www.youtube.com/watch?v=tWtlwOW47is)
-- [The Mines of Natla - Extra Life 2021 - &quot;Tomb Raider Gold&quot; - part 12 &lpar;SSA 274&rpar;](https://www.youtube.com/watch?v=pdVPcCyiltU)
-- [Stowaway - Extra Life 2021 - &quot;Tomb Raider Gold&quot; - part 11 &lpar;SSA 273&rpar;](https://www.youtube.com/watch?v=-3oRXDsURKE)
-- [Sphinx - Extra Life 2021 - &quot;Tomb Raider Gold&quot; - part 10 &lpar;SSA 272&rpar;](https://www.youtube.com/watch?v=FlSbRft8Z0g)
-- [Grand Ol&#39; Obelisk - Extra Life 2021 - &quot;Tomb Raider Gold&quot; - part 09 &lpar;SSA 271&rpar;](https://www.youtube.com/watch?v=HJW8E7MdP1s)
+- [A Wretched Hive - Extra Life 2021 - &quot;Tomb Raider Gold&quot; - part 23 &lpar;SSA 285&rpar;](https://www.youtube.com/watch?v=XzPCvqZcvo4)
+- [Mic Malfunction - Extra Life 2021 - &quot;Tomb Raider Gold&quot; - part 22 &lpar;SSA 284&rpar;](https://www.youtube.com/watch?v=khoi_Tjw6X0)
+- [Not-so-Stronghold - Extra Life 2021 - &quot;Tomb Raider Gold&quot; - part 21 &lpar;SSA 283&rpar;](https://www.youtube.com/watch?v=cXkw0zyNaZw)
+- [The Final Chapter - Extra Life 2021 - &quot;Tomb Raider Gold&quot; - part 20 &lpar;SSA 282&rpar;](https://www.youtube.com/watch?v=JItp5jO0jMM)
+- [Petting the Giant Kitty - Extra Life 2021 - &quot;Tomb Raider Gold&quot; - part 19 &lpar;SSA 281&rpar;](https://www.youtube.com/watch?v=i_51ohr4ElM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
