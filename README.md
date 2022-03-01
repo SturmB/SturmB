@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [You&#39;d be Psychonaut to join this stream!](https://www.youtube.com/watch?v=wnzHTBo5CWg)
-- [Come for the Psycho, stay for the Naut](https://www.youtube.com/watch?v=M1fGHzlwxME)
-- [We still have a dirty mind...  Or two, or three... To clean up!](https://www.youtube.com/watch?v=JOL6aj7NmNU)
-- [Leaving Baggage Behind - Psychonauts](https://www.youtube.com/watch?v=uEnV33j3lFA)
-- [Let&#39;s get psyched! - Psychonauts](https://www.youtube.com/watch?v=S91NFPQUHnI)
+- [A Heartbeat Away - Extra Life 2021 - &quot;Tomb Raider Gold&quot; - part 13 &lpar;SSA 275&rpar;](https://www.youtube.com/watch?v=tWtlwOW47is)
+- [The Mines of Natla - Extra Life 2021 - &quot;Tomb Raider Gold&quot; - part 12 &lpar;SSA 274&rpar;](https://www.youtube.com/watch?v=pdVPcCyiltU)
+- [Stowaway - Extra Life 2021 - &quot;Tomb Raider Gold&quot; - part 11 &lpar;SSA 273&rpar;](https://www.youtube.com/watch?v=-3oRXDsURKE)
+- [Sphinx - Extra Life 2021 - &quot;Tomb Raider Gold&quot; - part 10 &lpar;SSA 272&rpar;](https://www.youtube.com/watch?v=FlSbRft8Z0g)
+- [Grand Ol&#39; Obelisk - Extra Life 2021 - &quot;Tomb Raider Gold&quot; - part 09 &lpar;SSA 271&rpar;](https://www.youtube.com/watch?v=HJW8E7MdP1s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
