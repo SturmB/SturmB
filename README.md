@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [You&#39;d be Psychonaut to join this stream!](https://www.youtube.com/watch?v=-RlRekuf4lw)
 - [A Wretched Hive - Extra Life 2021 - &quot;Tomb Raider Gold&quot; - part 23 &lpar;SSA 285&rpar;](https://www.youtube.com/watch?v=XzPCvqZcvo4)
 - [Mic Malfunction - Extra Life 2021 - &quot;Tomb Raider Gold&quot; - part 22 &lpar;SSA 284&rpar;](https://www.youtube.com/watch?v=khoi_Tjw6X0)
 - [Not-so-Stronghold - Extra Life 2021 - &quot;Tomb Raider Gold&quot; - part 21 &lpar;SSA 283&rpar;](https://www.youtube.com/watch?v=cXkw0zyNaZw)
 - [The Final Chapter - Extra Life 2021 - &quot;Tomb Raider Gold&quot; - part 20 &lpar;SSA 282&rpar;](https://www.youtube.com/watch?v=JItp5jO0jMM)
+- [Petting the Giant Kitty - Extra Life 2021 - &quot;Tomb Raider Gold&quot; - part 19 &lpar;SSA 281&rpar;](https://www.youtube.com/watch?v=i_51ohr4ElM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
