@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [I Need a High-Profile Client! - Grim Fandango playthrough](https://www.youtube.com/watch?v=5VhHCwmkV6I)
 - [A Grim Beginning - Blind Play of Grim Fandango](https://www.youtube.com/watch?v=d4-R8AHm7Nc)
 - [Psycho? Naut after I finish up this game tonight!](https://www.youtube.com/watch?v=L5gDBcL9v5Q)
 - [You&#39;d be Psychonaut to join this stream!](https://www.youtube.com/watch?v=OwEYtt0cKz4)
 - [You&#39;d be Psychonaut to join this stream!](https://www.youtube.com/watch?v=-RlRekuf4lw)
+- [A Wretched Hive - Extra Life 2021 - &quot;Tomb Raider Gold&quot; - part 23 &lpar;SSA 285&rpar;](https://www.youtube.com/watch?v=XzPCvqZcvo4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
