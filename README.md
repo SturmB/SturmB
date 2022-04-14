@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Living the Good Un-Life](https://www.youtube.com/watch?v=4TmRO2pOkKE)
 - [Petrified in a Petrified Forest](https://www.youtube.com/watch?v=ytEsGYRanVo)
 - [I Need a High-Profile Client! - Grim Fandango playthrough](https://www.youtube.com/watch?v=w50WkFWZwY8)
 - [I Need a High-Profile Client! - Grim Fandango playthrough](https://www.youtube.com/watch?v=5VhHCwmkV6I)
 - [A Grim Beginning - Blind Play of Grim Fandango](https://www.youtube.com/watch?v=d4-R8AHm7Nc)
-- [Psycho? Naut after I finish up this game tonight!](https://www.youtube.com/watch?v=L5gDBcL9v5Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
