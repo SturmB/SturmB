@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Don&#39;t Call It a Comeback - More Grim Fandango, Perhaps?](https://www.youtube.com/watch?v=qNsdKiGfgTg)
 - [Saturday the 14th Strikes Back &lpar;1988&rpar; - The musical number](https://www.youtube.com/watch?v=QZ911PASQ1Y)
 - [Living the Good Un-Life](https://www.youtube.com/watch?v=4TmRO2pOkKE)
 - [Living the Good Un-Life](https://www.youtube.com/watch?v=XnKgBXR7xMI)
 - [Petrified in a Petrified Forest](https://www.youtube.com/watch?v=ytEsGYRanVo)
-- [I Need a High-Profile Client! - Grim Fandango playthrough](https://www.youtube.com/watch?v=w50WkFWZwY8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
