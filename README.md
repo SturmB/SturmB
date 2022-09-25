@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Conclusion - Let&#39;s Play &quot;Outer Wilds: Echoes of the Eye&quot; - part 7 &lpar;SSA 288&rpar;](https://www.youtube.com/watch?v=ll1TK-ntrFU)
+- [That Elusive Building - Let&#39;s Play &quot;Outer Wilds: Echoes of the Eye&quot; - part 6 &lpar;SSA 287&rpar;](https://www.youtube.com/watch?v=PlluvhRvBLo)
+- [Walkthrough Fail - Let&#39;s Play &quot;Outer Wilds: Echoes of the Eye&quot; - part 5 &lpar;SSA 286&rpar;](https://www.youtube.com/watch?v=J6gJByy-lXU)
 - [Don&#39;t Call It a Comeback - More Grim Fandango, Perhaps?](https://www.youtube.com/watch?v=qNsdKiGfgTg)
 - [Saturday the 14th Strikes Back &lpar;1988&rpar; - The musical number](https://www.youtube.com/watch?v=QZ911PASQ1Y)
-- [Living the Good Un-Life](https://www.youtube.com/watch?v=4TmRO2pOkKE)
-- [Living the Good Un-Life](https://www.youtube.com/watch?v=XnKgBXR7xMI)
-- [Petrified in a Petrified Forest](https://www.youtube.com/watch?v=ytEsGYRanVo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
