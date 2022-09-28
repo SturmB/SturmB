@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Diving Deep for Puzzles - Let&#39;s Play &quot;The Room 4: Old Sins&quot; - part 2 &lpar;SSA 290&rpar;](https://www.youtube.com/watch?v=7eavfiWU79s)
+- [A Curious Dollhouse - Let&#39;s Play &quot;The Room 4: Old Sins&quot; - part 1 &lpar;SSA 289&rpar;](https://www.youtube.com/watch?v=bIkk96e1wII)
 - [Conclusion - Let&#39;s Play &quot;Outer Wilds: Echoes of the Eye&quot; - part 7 &lpar;SSA 288&rpar;](https://www.youtube.com/watch?v=ll1TK-ntrFU)
 - [That Elusive Building - Let&#39;s Play &quot;Outer Wilds: Echoes of the Eye&quot; - part 6 &lpar;SSA 287&rpar;](https://www.youtube.com/watch?v=PlluvhRvBLo)
 - [Walkthrough Fail - Let&#39;s Play &quot;Outer Wilds: Echoes of the Eye&quot; - part 5 &lpar;SSA 286&rpar;](https://www.youtube.com/watch?v=J6gJByy-lXU)
-- [Don&#39;t Call It a Comeback - More Grim Fandango, Perhaps?](https://www.youtube.com/watch?v=qNsdKiGfgTg)
-- [Saturday the 14th Strikes Back &lpar;1988&rpar; - The musical number](https://www.youtube.com/watch?v=QZ911PASQ1Y)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
