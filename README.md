@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dollhouse-ception - Let&#39;s Play &quot;The Room 4: Old Sins&quot; - part 4 &lpar;SSA 292&rpar;](https://www.youtube.com/watch?v=Tiox4ASb7xk)
+- [One Small Detail - Let&#39;s Play &quot;The Room 4: Old Sins&quot; - part 3 &lpar;SSA 291&rpar;](https://www.youtube.com/watch?v=PIvHu1e3tY0)
 - [The Second Year of My Un-Life - Grim Fandango Puzzle-O-Rama](https://www.youtube.com/watch?v=8cyybBw-K64)
 - [Diving Deep for Puzzles - Let&#39;s Play &quot;The Room 4: Old Sins&quot; - part 2 &lpar;SSA 290&rpar;](https://www.youtube.com/watch?v=7eavfiWU79s)
 - [A Curious Dollhouse - Let&#39;s Play &quot;The Room 4: Old Sins&quot; - part 1 &lpar;SSA 289&rpar;](https://www.youtube.com/watch?v=bIkk96e1wII)
-- [Conclusion - Let&#39;s Play &quot;Outer Wilds: Echoes of the Eye&quot; - part 7 &lpar;SSA 288&rpar;](https://www.youtube.com/watch?v=ll1TK-ntrFU)
-- [That Elusive Building - Let&#39;s Play &quot;Outer Wilds: Echoes of the Eye&quot; - part 6 &lpar;SSA 287&rpar;](https://www.youtube.com/watch?v=PlluvhRvBLo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
