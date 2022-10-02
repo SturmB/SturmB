@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Gardening - Let&#39;s Play &quot;Minecraft&quot; - Omni, part 3 &lpar;SSA 296&rpar;](https://www.youtube.com/watch?v=FA8EyST4GDQ)
+- [A Minecraft Diversion - Let&#39;s Play &quot;Layers of Fear: Inheritance&quot; + &quot;Minecraft&quot;](https://www.youtube.com/watch?v=KXBqLIanAWw)
 - [A Child&#39;s Perspective - Let&#39;s Play &quot;Layers of Fear: Inheritance&quot; - part 1 &lpar;SSA 294&rpar;](https://www.youtube.com/watch?v=NqyNe4XRGCw)
 - [A Hole in the Ground - Let&#39;s Play &quot;Minecraft&quot; - Omni, part 1 &lpar;SSA 293&rpar;](https://www.youtube.com/watch?v=UEtzseFSe2U)
 - [Let&#39;s Get Into the Union! - Grim Fandango, Year 2](https://www.youtube.com/watch?v=YhqOAp_nNhE)
-- [Dollhouse-ception - Let&#39;s Play &quot;The Room 4: Old Sins&quot; - part 4 &lpar;SSA 292&rpar;](https://www.youtube.com/watch?v=Tiox4ASb7xk)
-- [One Small Detail - Let&#39;s Play &quot;The Room 4: Old Sins&quot; - part 3 &lpar;SSA 291&rpar;](https://www.youtube.com/watch?v=PIvHu1e3tY0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
