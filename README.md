@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [At World&#39;s End… And Johnny Depp&#39;s Not In Sight](https://www.youtube.com/watch?v=tExx4fdStxY)
 - [Laggy Boating - Let&#39;s Play &quot;Minecraft&quot; - Omni, part 5 &lpar;SSA 298&rpar;](https://www.youtube.com/watch?v=3Jd73Gs8PaQ)
 - [Herding Animals - Let&#39;s Play &quot;Minecraft&quot; - Omni, part 4 &lpar;SSA 297&rpar;](https://www.youtube.com/watch?v=_d1Fj1iw_N0)
 - [Gardening - Let&#39;s Play &quot;Minecraft&quot; - Omni, part 3 &lpar;SSA 296&rpar;](https://www.youtube.com/watch?v=FA8EyST4GDQ)
 - [A Minecraft Diversion - Let&#39;s Play &quot;Layers of Fear: Inheritance&quot; + &quot;Minecraft&quot;](https://www.youtube.com/watch?v=KXBqLIanAWw)
+- [A Child&#39;s Perspective - Let&#39;s Play &quot;Layers of Fear: Inheritance&quot; - part 1 &lpar;SSA 294&rpar;](https://www.youtube.com/watch?v=NqyNe4XRGCw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
