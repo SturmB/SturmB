@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [I Am the Milkman - Let&#39;s Play &quot;Psychonauts&quot;, part 5 &lpar;SSA 303&rpar;](https://www.youtube.com/watch?v=mAZdWXAM2r0)
 - [Linda the Lungfish - Let&#39;s Play &quot;Psychonauts&quot;, part 4 &lpar;SSA 302&rpar;](https://www.youtube.com/watch?v=lHs00X9D9Iw)
 - [Sasha, Milla, and Me - Let&#39;s Play &quot;Psychonauts&quot;, part 3 &lpar;SSA 301&rpar;](https://www.youtube.com/watch?v=Y4cehB8_S6c)
 - [Exploring the Campgrounds - Let&#39;s Play &quot;Psychonauts&quot;, part 2 &lpar;SSA 300&rpar;](https://www.youtube.com/watch?v=O7hKAogxhGc)
 - [A Golden Oldie - Let&#39;s Play &quot;Psychonauts&quot;, part 1 &lpar;SSA 299&rpar;](https://www.youtube.com/watch?v=s3O5FZAZ5SQ)
+- [At World&#39;s End… And Johnny Depp&#39;s Not In Sight](https://www.youtube.com/watch?v=tExx4fdStxY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
