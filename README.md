@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Year of Hell… in Grim Fandango](https://www.youtube.com/watch?v=tdgpcDJknnY)
 - [Completionista - Let&#39;s Play &quot;Psychonauts&quot;, part 8 &lpar;SSA 306&rpar;](https://www.youtube.com/watch?v=r6s6YEYmras)
 - [Lost Figments - Let&#39;s Play &quot;Psychonauts&quot;, part 7 &lpar;SSA 305&rpar;](https://www.youtube.com/watch?v=uU6ZLW2JVdQ)
 - [El Odio - Let&#39;s Play &quot;Psychonauts&quot;, part 6 &lpar;SSA 304&rpar;](https://www.youtube.com/watch?v=LaEwl_9ZPeU)
 - [I Am the Milkman - Let&#39;s Play &quot;Psychonauts&quot;, part 5 &lpar;SSA 303&rpar;](https://www.youtube.com/watch?v=AuzaIDdZZK8)
-- [Linda the Lungfish - Let&#39;s Play &quot;Psychonauts&quot;, part 4 &lpar;SSA 302&rpar;](https://www.youtube.com/watch?v=lHs00X9D9Iw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
