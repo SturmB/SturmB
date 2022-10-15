@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Collect All the Things! - Let&#39;s Play &quot;Psychonauts&quot;, part 11 &lpar;SSA 309&rpar;](https://www.youtube.com/watch?v=n3A1v46_iwc)
+- [Getting Into a Board Game - Let&#39;s Play &quot;Psychonauts&quot;, part 10 &lpar;SSA 308&rpar;](https://www.youtube.com/watch?v=F3zpFMmaCMc)
+- [Putting on a Play - Let&#39;s Play &quot;Psychonauts&quot;, part 9 &lpar;SSA 307&rpar;](https://www.youtube.com/watch?v=LONlPnWy3VM)
 - [The Year of Hell… in Grim Fandango](https://www.youtube.com/watch?v=tdgpcDJknnY)
 - [Completionista - Let&#39;s Play &quot;Psychonauts&quot;, part 8 &lpar;SSA 306&rpar;](https://www.youtube.com/watch?v=r6s6YEYmras)
-- [Lost Figments - Let&#39;s Play &quot;Psychonauts&quot;, part 7 &lpar;SSA 305&rpar;](https://www.youtube.com/watch?v=uU6ZLW2JVdQ)
-- [El Odio - Let&#39;s Play &quot;Psychonauts&quot;, part 6 &lpar;SSA 304&rpar;](https://www.youtube.com/watch?v=LaEwl_9ZPeU)
-- [I Am the Milkman - Let&#39;s Play &quot;Psychonauts&quot;, part 5 &lpar;SSA 303&rpar;](https://www.youtube.com/watch?v=AuzaIDdZZK8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
