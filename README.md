@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A Grim Beginning - Let&#39;s Play &quot;Grim Fandango&quot;, part 1 &lpar;SSA 312&rpar;](https://www.youtube.com/watch?v=jImz4An3Jyk)
+- [Conclusion - Let&#39;s Play &quot;Psychonauts&quot;, part 13 &lpar;SSA 311&rpar;](https://www.youtube.com/watch?v=nKvuWNPrOnM)
+- [Climbing the Asylum - Let&#39;s Play &quot;Psychonauts&quot;, part 12 &lpar;SSA 310&rpar;](https://www.youtube.com/watch?v=9dGzBEwz_V4)
 - [The Year of Hell… in Grim Fandango](https://www.youtube.com/watch?v=NelPZcvfDHc)
 - [Collect All the Things! - Let&#39;s Play &quot;Psychonauts&quot;, part 11 &lpar;SSA 309&rpar;](https://www.youtube.com/watch?v=n3A1v46_iwc)
-- [Getting Into a Board Game - Let&#39;s Play &quot;Psychonauts&quot;, part 10 &lpar;SSA 308&rpar;](https://www.youtube.com/watch?v=F3zpFMmaCMc)
-- [Putting on a Play - Let&#39;s Play &quot;Psychonauts&quot;, part 9 &lpar;SSA 307&rpar;](https://www.youtube.com/watch?v=LONlPnWy3VM)
-- [The Year of Hell… in Grim Fandango](https://www.youtube.com/watch?v=tdgpcDJknnY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
