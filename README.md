@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A Multi Year Journey - Let&#39;s Play &quot;Grim Fandango&quot;, part 4 &lpar;SSA 315&rpar;](https://www.youtube.com/watch?v=MsbbJHH70Ck)
+- [It&#39;s Robert Frost! - Let&#39;s Play &quot;Grim Fandango&quot;, part 3 &lpar;SSA 314&rpar;](https://www.youtube.com/watch?v=DduysrcmP18)
+- [An Almost Perfect Client - Let&#39;s Play &quot;Grim Fandango&quot;, part 2 &lpar;SSA 313&rpar;](https://www.youtube.com/watch?v=jLDg2QbRbak)
 - [A Grim Beginning - Let&#39;s Play &quot;Grim Fandango&quot;, part 1 &lpar;SSA 312&rpar;](https://www.youtube.com/watch?v=jImz4An3Jyk)
 - [Conclusion - Let&#39;s Play &quot;Psychonauts&quot;, part 13 &lpar;SSA 311&rpar;](https://www.youtube.com/watch?v=nKvuWNPrOnM)
-- [Climbing the Asylum - Let&#39;s Play &quot;Psychonauts&quot;, part 12 &lpar;SSA 310&rpar;](https://www.youtube.com/watch?v=9dGzBEwz_V4)
-- [The Year of Hell… in Grim Fandango](https://www.youtube.com/watch?v=NelPZcvfDHc)
-- [Collect All the Things! - Let&#39;s Play &quot;Psychonauts&quot;, part 11 &lpar;SSA 309&rpar;](https://www.youtube.com/watch?v=n3A1v46_iwc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
