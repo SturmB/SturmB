@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [On &lpar;And In&rpar; the Ocean - Let&#39;s Play &quot;Grim Fandango&quot;, part 7 &lpar;SSA 318&rpar;](https://www.youtube.com/watch?v=eGpjhaATQb0)
+- [Elevator Action - Let&#39;s Play &quot;Grim Fandango&quot;, part 6 &lpar;SSA 317&rpar;](https://www.youtube.com/watch?v=56aUTR_uM0Q)
+- [Don&#39;t Call It a Comeback - Let&#39;s Play &quot;Grim Fandango&quot;, part 5 &lpar;SSA 316&rpar;](https://www.youtube.com/watch?v=T1S-RhUmPQA)
 - [A Multi Year Journey - Let&#39;s Play &quot;Grim Fandango&quot;, part 4 &lpar;SSA 315&rpar;](https://www.youtube.com/watch?v=MsbbJHH70Ck)
 - [It&#39;s Robert Frost! - Let&#39;s Play &quot;Grim Fandango&quot;, part 3 &lpar;SSA 314&rpar;](https://www.youtube.com/watch?v=DduysrcmP18)
-- [An Almost Perfect Client - Let&#39;s Play &quot;Grim Fandango&quot;, part 2 &lpar;SSA 313&rpar;](https://www.youtube.com/watch?v=jLDg2QbRbak)
-- [A Grim Beginning - Let&#39;s Play &quot;Grim Fandango&quot;, part 1 &lpar;SSA 312&rpar;](https://www.youtube.com/watch?v=jImz4An3Jyk)
-- [Conclusion - Let&#39;s Play &quot;Psychonauts&quot;, part 13 &lpar;SSA 311&rpar;](https://www.youtube.com/watch?v=nKvuWNPrOnM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
