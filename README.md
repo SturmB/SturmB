@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How Is a Rhombus Ruinous? - Let&#39;s Play &quot;Psychonauts VR&quot;](https://www.youtube.com/watch?v=5OpX-1WKFZ0)
 - [A Grim Ending - Let&#39;s Play &quot;Grim Fandango&quot;, part 10 &lpar;SSA 321&rpar;](https://www.youtube.com/watch?v=qFNfnY0Wxig)
 - [Domino&#39;s Dominoes - Let&#39;s Play &quot;Grim Fandango&quot;, part 9 &lpar;SSA 320&rpar;](https://www.youtube.com/watch?v=9YIv-yv6lpw)
 - [The Wrong Mic - Let&#39;s Play &quot;Grim Fandango&quot;, part 8 &lpar;SSA 319&rpar;](https://www.youtube.com/watch?v=QaK0-eKhKVw)
 - [On &lpar;And In&rpar; the Ocean - Let&#39;s Play &quot;Grim Fandango&quot;, part 7 &lpar;SSA 318&rpar;](https://www.youtube.com/watch?v=eGpjhaATQb0)
-- [Elevator Action - Let&#39;s Play &quot;Grim Fandango&quot;, part 6 &lpar;SSA 317&rpar;](https://www.youtube.com/watch?v=56aUTR_uM0Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
