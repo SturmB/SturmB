@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A Grim Ending - Let&#39;s Play &quot;Grim Fandango&quot;, part 10 &lpar;SSA 321&rpar;](https://www.youtube.com/watch?v=qFNfnY0Wxig)
+- [Domino&#39;s Dominoes - Let&#39;s Play &quot;Grim Fandango&quot;, part 9 &lpar;SSA 320&rpar;](https://www.youtube.com/watch?v=9YIv-yv6lpw)
+- [The Wrong Mic - Let&#39;s Play &quot;Grim Fandango&quot;, part 8 &lpar;SSA 319&rpar;](https://www.youtube.com/watch?v=QaK0-eKhKVw)
 - [On &lpar;And In&rpar; the Ocean - Let&#39;s Play &quot;Grim Fandango&quot;, part 7 &lpar;SSA 318&rpar;](https://www.youtube.com/watch?v=eGpjhaATQb0)
 - [Elevator Action - Let&#39;s Play &quot;Grim Fandango&quot;, part 6 &lpar;SSA 317&rpar;](https://www.youtube.com/watch?v=56aUTR_uM0Q)
-- [Don&#39;t Call It a Comeback - Let&#39;s Play &quot;Grim Fandango&quot;, part 5 &lpar;SSA 316&rpar;](https://www.youtube.com/watch?v=T1S-RhUmPQA)
-- [A Multi Year Journey - Let&#39;s Play &quot;Grim Fandango&quot;, part 4 &lpar;SSA 315&rpar;](https://www.youtube.com/watch?v=MsbbJHH70Ck)
-- [It&#39;s Robert Frost! - Let&#39;s Play &quot;Grim Fandango&quot;, part 3 &lpar;SSA 314&rpar;](https://www.youtube.com/watch?v=DduysrcmP18)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
