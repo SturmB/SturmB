@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [VR Gamer Goes Out of His Mind… And Into Other Minds](https://www.youtube.com/watch?v=sBWD8Anplns)
 - [How is a Rhombus Ruinous? - Let&#39;s Play &quot;Psychonauts in the Rhombus of Ruin&quot;, part 1 &lpar;SSA 322&rpar;](https://www.youtube.com/watch?v=KjiZv414nao)
 - [How Is a Rhombus Ruinous? - Let&#39;s Play &quot;Psychonauts VR&quot;](https://www.youtube.com/watch?v=5OpX-1WKFZ0)
 - [A Grim Ending - Let&#39;s Play &quot;Grim Fandango&quot;, part 10 &lpar;SSA 321&rpar;](https://www.youtube.com/watch?v=qFNfnY0Wxig)
 - [Domino&#39;s Dominoes - Let&#39;s Play &quot;Grim Fandango&quot;, part 9 &lpar;SSA 320&rpar;](https://www.youtube.com/watch?v=9YIv-yv6lpw)
+- [The Wrong Mic - Let&#39;s Play &quot;Grim Fandango&quot;, part 8 &lpar;SSA 319&rpar;](https://www.youtube.com/watch?v=QaK0-eKhKVw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
