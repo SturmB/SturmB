@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Like Watching the Sausage Get Made, Only More Gross](https://www.youtube.com/watch?v=deZQ-5Pod8Y)
 - [The Mind of a Madman  -- Let&#39;s Play &quot;Psychonauts in the Rhombus of Ruin&quot;, part 2 &lpar;SSA 323&rpar;](https://www.youtube.com/watch?v=3T8DrR4l01w)
 - [VR Gamer Goes Out of His Mind… And Into Other Minds](https://www.youtube.com/watch?v=sBWD8Anplns)
 - [How is a Rhombus Ruinous? - Let&#39;s Play &quot;Psychonauts in the Rhombus of Ruin&quot;, part 1 &lpar;SSA 322&rpar;](https://www.youtube.com/watch?v=KjiZv414nao)
 - [How Is a Rhombus Ruinous? - Let&#39;s Play &quot;Psychonauts VR&quot;](https://www.youtube.com/watch?v=5OpX-1WKFZ0)
-- [A Grim Ending - Let&#39;s Play &quot;Grim Fandango&quot;, part 10 &lpar;SSA 321&rpar;](https://www.youtube.com/watch?v=qFNfnY0Wxig)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
