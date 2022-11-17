@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A Slight Case of Deja Vu - Evoland II](https://www.youtube.com/watch?v=me4dOJwlT_U)
 - [A Slight Case of Deja Vu - Evoland II](https://www.youtube.com/watch?v=rnx14q-z-ag)
 - [Like Watching the Sausage Get Made, Only More Gross](https://www.youtube.com/watch?v=deZQ-5Pod8Y)
 - [The Mind of a Madman  -- Let&#39;s Play &quot;Psychonauts in the Rhombus of Ruin&quot;, part 2 &lpar;SSA 323&rpar;](https://www.youtube.com/watch?v=3T8DrR4l01w)
 - [VR Gamer Goes Out of His Mind… And Into Other Minds](https://www.youtube.com/watch?v=sBWD8Anplns)
-- [How is a Rhombus Ruinous? - Let&#39;s Play &quot;Psychonauts in the Rhombus of Ruin&quot;, part 1 &lpar;SSA 322&rpar;](https://www.youtube.com/watch?v=KjiZv414nao)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
