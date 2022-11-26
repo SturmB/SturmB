@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [We has a ship!](https://www.youtube.com/watch?v=A3ECIe4mD08)
 - [Evolving with the Land](https://www.youtube.com/watch?v=q0bgAl0R9ic)
 - [An RPG in 3D! - Evoland II playthrough](https://www.youtube.com/watch?v=YH_1JcbgJt8)
 - [A Slight Case of Deja Vu - Evoland II](https://www.youtube.com/watch?v=me4dOJwlT_U)
 - [A Slight Case of Deja Vu - Evoland II](https://www.youtube.com/watch?v=rnx14q-z-ag)
+- [Like Watching the Sausage Get Made, Only More Gross](https://www.youtube.com/watch?v=deZQ-5Pod8Y)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
