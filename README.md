@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Becoming the Game of Cards Master](https://www.youtube.com/watch?v=Y487dDM-U7k)
 - [Before the Past Becomes the Present](https://www.youtube.com/watch?v=SQV891ZE2SY)
 - [I Need a Strategy for my Strategy RPG](https://www.youtube.com/watch?v=YP78FlZPX0U)
 - [The Demons&#39; Home](https://www.youtube.com/watch?v=QsWgOopZ2zI)
 - [Bouncing through time like a yo-yo](https://www.youtube.com/watch?v=oAscNkp62DA)
-- [My, my, my, a mine](https://www.youtube.com/watch?v=V_5BaC7ep-k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
