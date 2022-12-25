@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Releasing My Not-So-Inner Demons](https://www.youtube.com/watch?v=Sa5VTjWNeL4)
 - [Christmas Eve-o-Land II](https://www.youtube.com/watch?v=7TSSzdokziY)
 - [Releasing My Not-So-Inner Demons](https://www.youtube.com/watch?v=UP6BqAvMcUU)
 - [Becoming the Game of Cards Master](https://www.youtube.com/watch?v=Y487dDM-U7k)
 - [Before the Past Becomes the Present](https://www.youtube.com/watch?v=SQV891ZE2SY)
-- [I Need a Strategy for my Strategy RPG](https://www.youtube.com/watch?v=YP78FlZPX0U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
