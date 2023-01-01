@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Trapped in an Anomaly](https://www.youtube.com/watch?v=SxlR-BK2yE8)
-- [Releasing My Not-So-Inner Demons](https://www.youtube.com/watch?v=Sa5VTjWNeL4)
-- [Christmas Eve-o-Land II](https://www.youtube.com/watch?v=7TSSzdokziY)
-- [Releasing My Not-So-Inner Demons](https://www.youtube.com/watch?v=UP6BqAvMcUU)
-- [Becoming the Game of Cards Master](https://www.youtube.com/watch?v=Y487dDM-U7k)
+- [The Mother of all Hangovers - Extra Life 2022 - &quot;Disco Elysium&quot;, part 1 &lpar;SSA 326&rpar;](https://www.youtube.com/watch?v=wLRdCC_u7Do)
+- [Space Station Investigation - Extra Life 2022 - &quot;Tacoma&quot;, part 1 &lpar;SSA 342&rpar;](https://www.youtube.com/watch?v=t1Z4m2v3GI8)
+- [Chased by a Mannequin - Extra Life 2022 - &quot;Layers of Fear 2&quot;, part 2 &lpar;SSA 338&rpar;](https://www.youtube.com/watch?v=xEVZ8Gb5qJ4)
+- [A Cozy Adventure - Extra Life 2022 - &quot;Night in the Woods&quot;, part 1 &lpar;SSA 328&rpar;](https://www.youtube.com/watch?v=iFR-rr8QM8c)
+- [Stuck in the Past - Extra Life 2022 - &quot;Evoland II&quot;, part 2 &lpar;SSA 345&rpar;](https://www.youtube.com/watch?v=lNyK_UwtwoM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
