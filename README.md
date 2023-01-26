@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Concluding the Trip Through Gaming History](https://www.youtube.com/watch?v=2sFQsekMm_0)
 - [I Hope You Like Card Games!](https://www.youtube.com/watch?v=ZMJsiiIST0E)
 - [Colosseum Madness](https://www.youtube.com/watch?v=LL_cfsHQU08)
 - [Sweeping Up the Competition](https://www.youtube.com/watch?v=Bf-CYhjRa6s)
 - [What Is Time?](https://www.youtube.com/watch?v=M9r90LX_Jwo)
+- [New Year, Same Game](https://www.youtube.com/watch?v=47Dg2DRTeYg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
