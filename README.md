@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Concluding the Trip Through Gaming History](https://www.youtube.com/watch?v=2sFQsekMm_0)
-- [I Hope You Like Card Games!](https://www.youtube.com/watch?v=ZMJsiiIST0E)
-- [Colosseum Madness](https://www.youtube.com/watch?v=LL_cfsHQU08)
-- [Sweeping Up the Competition](https://www.youtube.com/watch?v=Bf-CYhjRa6s)
-- [What Is Time?](https://www.youtube.com/watch?v=M9r90LX_Jwo)
+- [Finale - &quot;Evoland II&quot;, part 22 &lpar;SSA 368&rpar;](https://www.youtube.com/watch?v=WNT2Zn21PAU)
+- [Collectibles Collected - &quot;Evoland II&quot;, part 21 &lpar;SSA 367&rpar;](https://www.youtube.com/watch?v=m5vNa7RPRaI)
+- [Those Elusive Last Few - &quot;Evoland II&quot;, part 20 &lpar;SSA 366&rpar;](https://www.youtube.com/watch?v=tWoKHg4mhw4)
+- [Cleaning up the World - &quot;Evoland II&quot;, part 19 &lpar;SSA 365&rpar;](https://www.youtube.com/watch?v=BcIJZE8vsrI)
+- [Collectioning - &quot;Evoland II&quot;, part 18 &lpar;SSA 364&rpar;](https://www.youtube.com/watch?v=WsLrPQ-n7sM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
