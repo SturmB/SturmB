@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Concluding the Trip Through Gaming History](https://www.youtube.com/watch?v=gEXG7Avsv9Q)
 - [Finale - &quot;Evoland II&quot;, part 22 &lpar;SSA 368&rpar;](https://www.youtube.com/watch?v=WNT2Zn21PAU)
 - [Collectibles Collected - &quot;Evoland II&quot;, part 21 &lpar;SSA 367&rpar;](https://www.youtube.com/watch?v=m5vNa7RPRaI)
 - [Those Elusive Last Few - &quot;Evoland II&quot;, part 20 &lpar;SSA 366&rpar;](https://www.youtube.com/watch?v=tWoKHg4mhw4)
 - [Cleaning up the World - &quot;Evoland II&quot;, part 19 &lpar;SSA 365&rpar;](https://www.youtube.com/watch?v=BcIJZE8vsrI)
+- [Collectioning - &quot;Evoland II&quot;, part 18 &lpar;SSA 364&rpar;](https://www.youtube.com/watch?v=WsLrPQ-n7sM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
