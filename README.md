@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Catching Up With the Non-Humans](https://www.youtube.com/watch?v=Gw0qQCmMWek)
 - [A New Beginning With New Faces?](https://www.youtube.com/watch?v=BmjIx5NqM64)
 - [Grim Twigs in Twigroot Forest](https://www.youtube.com/watch?v=_rd_WG6IxIc)
 - [A Return to the Grim Rock](https://www.youtube.com/watch?v=f4momPpYgbM)
 - [Concluding the Trip Through Gaming History](https://www.youtube.com/watch?v=gEXG7Avsv9Q)
+- [Finale - &quot;Evoland II&quot;, part 22 &lpar;SSA 368&rpar;](https://www.youtube.com/watch?v=WNT2Zn21PAU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
