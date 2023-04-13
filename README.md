@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Island-ception at the Rock that&#39;s Grim](https://www.youtube.com/watch?v=aFCsC8m80oA)
 - [Remember the Forgotten River](https://www.youtube.com/watch?v=pZGeAmHIkoY)
 - [Catching Up With the Non-Humans](https://www.youtube.com/watch?v=Gw0qQCmMWek)
 - [A New Beginning With New Faces?](https://www.youtube.com/watch?v=ryO3jUoTRFQ)
 - [A New Beginning With New Faces?](https://www.youtube.com/watch?v=BmjIx5NqM64)
-- [Grim Twigs in Twigroot Forest](https://www.youtube.com/watch?v=_rd_WG6IxIc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
