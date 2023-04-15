@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Crawling Around in Dungeons](https://www.youtube.com/watch?v=vrTXfg6FBbA)
 - [Island-ception at the Rock that&#39;s Grim](https://www.youtube.com/watch?v=aFCsC8m80oA)
 - [Remember the Forgotten River](https://www.youtube.com/watch?v=pZGeAmHIkoY)
 - [Catching Up With the Non-Humans](https://www.youtube.com/watch?v=Gw0qQCmMWek)
 - [A New Beginning With New Faces?](https://www.youtube.com/watch?v=ryO3jUoTRFQ)
-- [A New Beginning With New Faces?](https://www.youtube.com/watch?v=BmjIx5NqM64)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
