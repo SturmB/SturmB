@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Legging it in the Lexiconary](https://www.youtube.com/watch?v=yjZ2OqaA4fg)
 - [Delving Deeper in the Deadly Dungeons of Desarune](https://www.youtube.com/watch?v=nLDiV33vmgI)
 - [Crawling Around in Dungeons](https://www.youtube.com/watch?v=c4facJ33dI0)
 - [Deeply Diving into a Deadly Dungeon](https://www.youtube.com/watch?v=C2jgZKJlwNY)
 - [Crawling Around in Dungeons](https://www.youtube.com/watch?v=vrTXfg6FBbA)
-- [Crawling Around in Dungeons](https://www.youtube.com/watch?v=N2gUc7urtzM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
