@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Slogging Through Sewage](https://www.youtube.com/watch?v=fG-gBafBCYw)
 - [Out of the Frying Pan…](https://www.youtube.com/watch?v=7x7Sk64BVP0)
 - [Digging up Graves for Greaves](https://www.youtube.com/watch?v=7QOeA45N56Y)
 - [Legging it in the Lexiconary](https://www.youtube.com/watch?v=XLw1MT-dzN4)
 - [Digging up Graves for Greaves](https://www.youtube.com/watch?v=nT2SEozwZgQ)
+- [Legging it in the Lexiconary](https://www.youtube.com/watch?v=yjZ2OqaA4fg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
