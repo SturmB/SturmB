@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Not Your Granddaddy&#39;s Hamlet](https://www.youtube.com/watch?v=_4bC-GsJ3j0)
 - [Slogging Through Sewage](https://www.youtube.com/watch?v=fG-gBafBCYw)
 - [Out of the Frying Pan…](https://www.youtube.com/watch?v=7x7Sk64BVP0)
 - [Digging up Graves for Greaves](https://www.youtube.com/watch?v=7QOeA45N56Y)
 - [Legging it in the Lexiconary](https://www.youtube.com/watch?v=XLw1MT-dzN4)
-- [Digging up Graves for Greaves](https://www.youtube.com/watch?v=nT2SEozwZgQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
