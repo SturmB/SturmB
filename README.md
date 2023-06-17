@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Knowledge is a Terrible Thing](https://www.youtube.com/watch?v=GzIDDph6is0)
 - [Is it Desert or Dessert?](https://www.youtube.com/watch?v=awY8EHE2ITI)
 - [Have You Seen My Mummy?](https://www.youtube.com/watch?v=n9Hopsuhvl0)
 - [A Pyramid Scheme… of sorts.](https://www.youtube.com/watch?v=To7p_LJDcyw)
 - [A Pyramid Scheme… of sorts.](https://www.youtube.com/watch?v=_ted8gKt3nc)
+- [Mining for Crystals?](https://www.youtube.com/watch?v=zXd0FN282Jc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
