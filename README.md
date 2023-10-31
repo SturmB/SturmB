@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Scared of a little water?](https://www.youtube.com/watch?v=EYir-djlc4s)
 - [The Final Showdown&lpar;s&rpar;](https://www.youtube.com/watch?v=CrpEDbzm_B8)
 - [Knowledge is a Terrible Thing](https://www.youtube.com/watch?v=GzIDDph6is0)
 - [Is it Desert or Dessert?](https://www.youtube.com/watch?v=awY8EHE2ITI)
 - [Have You Seen My Mummy?](https://www.youtube.com/watch?v=n9Hopsuhvl0)
-- [A Pyramid Scheme… of sorts.](https://www.youtube.com/watch?v=To7p_LJDcyw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
