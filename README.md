@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [On the Lookout for Xenomorphs](https://www.youtube.com/watch?v=k7YE-jGfpZU)
 - [Quite an Emotional Journey](https://www.youtube.com/watch?v=0bkn7DE42hU)
 - [Making a Delivery](https://www.youtube.com/watch?v=43MLGRKa7w4)
 - [Scared of a little water?](https://www.youtube.com/watch?v=EYir-djlc4s)
 - [The Final Showdown&lpar;s&rpar;](https://www.youtube.com/watch?v=CrpEDbzm_B8)
-- [Knowledge is a Terrible Thing](https://www.youtube.com/watch?v=GzIDDph6is0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
