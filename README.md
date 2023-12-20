@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Evil in the Attic](https://www.youtube.com/watch?v=eptp9Fu1K5Y)
 - [Back to the Basement](https://www.youtube.com/watch?v=4FjWj5sUVSI)
 - [Dreaming While Awake](https://www.youtube.com/watch?v=PUcTy25C-a4)
 - [The Horrors of a Tattoo Parlor](https://www.youtube.com/watch?v=hUcIDQfd61k)
 - [Door-to-Door Interrogation](https://www.youtube.com/watch?v=BjsSy-HYpIE)
-- [Back to the Scene of a Crime](https://www.youtube.com/watch?v=pE2r2GK4az4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
