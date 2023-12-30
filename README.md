@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Medium-Rare](https://www.youtube.com/watch?v=T-r6s94cdr4)
 - [A Medium playthrough of Medium](https://www.youtube.com/watch?v=NkyYcUrbJds)
 - [Zombie Son?](https://www.youtube.com/watch?v=d-TuKAJ42AE)
 - [Evil in the Attic](https://www.youtube.com/watch?v=eptp9Fu1K5Y)
 - [Back to the Basement](https://www.youtube.com/watch?v=4FjWj5sUVSI)
-- [Dreaming While Awake](https://www.youtube.com/watch?v=PUcTy25C-a4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
