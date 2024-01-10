@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Medium Thickness](https://www.youtube.com/watch?v=kHWzM5l4_os)
 - [Light to Medium](https://www.youtube.com/watch?v=btAJxUlzinQ)
 - [Medium Difficulty](https://www.youtube.com/watch?v=bFB1trH2mXY)
 - [Medium-Rare](https://www.youtube.com/watch?v=T-r6s94cdr4)
 - [A Medium playthrough of Medium](https://www.youtube.com/watch?v=NkyYcUrbJds)
-- [Zombie Son?](https://www.youtube.com/watch?v=d-TuKAJ42AE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
