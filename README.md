@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Beyond Basic Braining](https://www.youtube.com/watch?v=6QCDWn7CCeI)
 - [Who&#39;s Psycho? Naut Me!](https://www.youtube.com/watch?v=q6JZEjMUc9w)
 - [Medium Thickness](https://www.youtube.com/watch?v=kHWzM5l4_os)
 - [Light to Medium](https://www.youtube.com/watch?v=btAJxUlzinQ)
 - [Medium Difficulty](https://www.youtube.com/watch?v=bFB1trH2mXY)
-- [Medium-Rare](https://www.youtube.com/watch?v=T-r6s94cdr4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
