@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Play Some Lynyrd Skynyrd!](https://www.youtube.com/watch?v=hk80KLK3gq8)
+- [Quaffing Quickly in the Questionable Quarry](https://www.youtube.com/watch?v=Izno-YzCXtk)
 - [Quaffing Quickly in the Questionable Quarry](https://www.youtube.com/watch?v=qrSH_mxeIOo)
 - [Collectively Unconscious](https://www.youtube.com/watch?v=0X6gCJzWoEU)
 - [Money + Risk = Gambling](https://www.youtube.com/watch?v=qmB2q6WG840)
-- [Beyond Basic Braining](https://www.youtube.com/watch?v=6QCDWn7CCeI)
-- [Who&#39;s Psycho? Naut Me!](https://www.youtube.com/watch?v=q6JZEjMUc9w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
