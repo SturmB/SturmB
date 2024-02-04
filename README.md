@@ -56,8 +56,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Play Some Lynyrd Skynyrd!](https://www.youtube.com/watch?v=hk80KLK3gq8)
 - [Quaffing Quickly in the Questionable Quarry](https://www.youtube.com/watch?v=Izno-YzCXtk)
+- [Play Some Lynyrd Skynyrd!](https://www.youtube.com/watch?v=hk80KLK3gq8)
 - [Quaffing Quickly in the Questionable Quarry](https://www.youtube.com/watch?v=qrSH_mxeIOo)
 - [Collectively Unconscious](https://www.youtube.com/watch?v=0X6gCJzWoEU)
 - [Money + Risk = Gambling](https://www.youtube.com/watch?v=qmB2q6WG840)
