@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Signing up for a Bowling League](https://www.youtube.com/watch?v=eX40PZXf9vo)
 - [Questionable Questing](https://www.youtube.com/watch?v=H8GJ08lowq4)
 - [Quaffing Quickly in the Questionable Quarry](https://www.youtube.com/watch?v=Izno-YzCXtk)
 - [Play Some Lynyrd Skynyrd!](https://www.youtube.com/watch?v=hk80KLK3gq8)
 - [Quaffing Quickly in the Questionable Quarry](https://www.youtube.com/watch?v=qrSH_mxeIOo)
-- [Collectively Unconscious](https://www.youtube.com/watch?v=0X6gCJzWoEU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
