@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Getting Minds Out of the Gutter](https://www.youtube.com/watch?v=pTa_ENynT0A)
 - [Psychonauts Inception](https://www.youtube.com/watch?v=o5lQd36esbM)
 - [It&#39;s a barbershop solo…until we can find a way in!](https://www.youtube.com/watch?v=0gnlr1MrV1w)
 - [Signing up for a Bowling League](https://www.youtube.com/watch?v=eX40PZXf9vo)
 - [Questionable Questing](https://www.youtube.com/watch?v=H8GJ08lowq4)
-- [Quaffing Quickly in the Questionable Quarry](https://www.youtube.com/watch?v=Izno-YzCXtk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
