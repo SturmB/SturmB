@@ -56,8 +56,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Getting Minds Out of the Gutter](https://www.youtube.com/watch?v=hotk-Ugr79w)
 - [A Thorny Situation](https://www.youtube.com/watch?v=6FkmINGhX9g)
+- [Getting Minds Out of the Gutter](https://www.youtube.com/watch?v=hotk-Ugr79w)
 - [Getting Minds Out of the Gutter](https://www.youtube.com/watch?v=pTa_ENynT0A)
 - [Psychonauts Inception](https://www.youtube.com/watch?v=o5lQd36esbM)
 - [It&#39;s a barbershop solo…until we can find a way in!](https://www.youtube.com/watch?v=0gnlr1MrV1w)
