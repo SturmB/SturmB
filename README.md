@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A Truly Psycho Conspiracy](https://www.youtube.com/watch?v=y_Ak9rEYdoc)
 - [The Final Chapter?](https://www.youtube.com/watch?v=L1Bze04cMoM)
 - [Sewing Seeds](https://www.youtube.com/watch?v=g74BZVhMpsI)
 - [A Thorny Situation](https://www.youtube.com/watch?v=6FkmINGhX9g)
 - [Getting Minds Out of the Gutter](https://www.youtube.com/watch?v=hotk-Ugr79w)
-- [Getting Minds Out of the Gutter](https://www.youtube.com/watch?v=pTa_ENynT0A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
