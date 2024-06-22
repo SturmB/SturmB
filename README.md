@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dig around and find out](https://www.youtube.com/watch?v=L1P1GgnNjsw)
 - [Digging the heat?](https://www.youtube.com/watch?v=McLR4nZ9oIw)
 - [Time to Dig into a new game!](https://www.youtube.com/watch?v=M7aPQIh07xs)
 - [Psycho-cleanup](https://www.youtube.com/watch?v=IPl6WhaXUPY)
 - [A Truly Psycho Conspiracy](https://www.youtube.com/watch?v=y_Ak9rEYdoc)
-- [The Final Chapter?](https://www.youtube.com/watch?v=L1Bze04cMoM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
