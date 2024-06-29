@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Can you Dig the hard light?](https://www.youtube.com/watch?v=hUUGJd0uKW4)
 - [Digging a shortcut](https://www.youtube.com/watch?v=49zAePS8QA0)
 - [Dig around and find out](https://www.youtube.com/watch?v=L1P1GgnNjsw)
 - [Digging the heat?](https://www.youtube.com/watch?v=McLR4nZ9oIw)
 - [Time to Dig into a new game!](https://www.youtube.com/watch?v=M7aPQIh07xs)
-- [Psycho-cleanup](https://www.youtube.com/watch?v=IPl6WhaXUPY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
