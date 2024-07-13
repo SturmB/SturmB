@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Choosing the next playthrough game](https://www.youtube.com/watch?v=4gErxjRjpPU)
 - [Digging the last spire](https://www.youtube.com/watch?v=-0Uv1-2pSPo)
 - [Digging through the final door](https://www.youtube.com/watch?v=heFdPMTSjdg)
 - [Can you Dig the hard light?](https://www.youtube.com/watch?v=hUUGJd0uKW4)
 - [Digging a shortcut](https://www.youtube.com/watch?v=49zAePS8QA0)
-- [Dig around and find out](https://www.youtube.com/watch?v=L1P1GgnNjsw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
