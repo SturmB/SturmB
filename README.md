@@ -56,8 +56,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [You must gather your party before venturing forth](https://www.youtube.com/watch?v=Vl8qPAXxFVw)
 - [You must gather your party before venturing forth](https://www.youtube.com/watch?v=OA3S-4SG2AU)
+- [You must gather your party before venturing forth](https://www.youtube.com/watch?v=Vl8qPAXxFVw)
 - [Digging the last spire](https://www.youtube.com/watch?v=-0Uv1-2pSPo)
 - [Digging through the final door](https://www.youtube.com/watch?v=heFdPMTSjdg)
 - [Can you Dig the hard light?](https://www.youtube.com/watch?v=hUUGJd0uKW4)
