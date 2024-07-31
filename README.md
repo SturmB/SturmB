@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Slumming it in the Slums](https://www.youtube.com/watch?v=S8jK5paXN7o)
 - [When D&amp;D was so cool it was Advanced](https://www.youtube.com/watch?v=XZUBGgLc7r0)
 - [You must gather your party before venturing forth](https://www.youtube.com/watch?v=OA3S-4SG2AU)
 - [You must gather your party before venturing forth](https://www.youtube.com/watch?v=Vl8qPAXxFVw)
 - [Digging the last spire](https://www.youtube.com/watch?v=-0Uv1-2pSPo)
-- [Digging through the final door](https://www.youtube.com/watch?v=heFdPMTSjdg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
