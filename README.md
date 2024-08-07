@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Let&#39;s go shopping!](https://www.youtube.com/watch?v=7Kmyg3O_6s8)
 - [Grind. Sell. Repeat.](https://www.youtube.com/watch?v=lM9GcZmenng)
 - [Slumming it in the Slums](https://www.youtube.com/watch?v=S8jK5paXN7o)
 - [When D&amp;D was so cool it was Advanced](https://www.youtube.com/watch?v=XZUBGgLc7r0)
 - [You must gather your party before venturing forth](https://www.youtube.com/watch?v=OA3S-4SG2AU)
-- [You must gather your party before venturing forth](https://www.youtube.com/watch?v=Vl8qPAXxFVw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
