@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Well of Kuto Awaits](https://www.youtube.com/watch?v=f9B2J3zDVFs)
 - [To the Keep of Soko/al](https://www.youtube.com/watch?v=H3azgeZSeN4)
 - [Gallagher - Grandma&#39;s Sweater](https://www.youtube.com/watch?v=L8pWw7VsOSI)
 - [Into the Maze we go](https://www.youtube.com/watch?v=lgc39hPBLCE)
 - [Let&#39;s go shopping!](https://www.youtube.com/watch?v=7Kmyg3O_6s8)
-- [Grind. Sell. Repeat.](https://www.youtube.com/watch?v=lM9GcZmenng)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
