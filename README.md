@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Hanging Out at the Textile House](https://www.youtube.com/watch?v=FhMcOh6BD2U)
 - [Time for a some light reading](https://www.youtube.com/watch?v=FoIQtzeXnuA)
 - [Time for a some light reading](https://www.youtube.com/watch?v=cpeM65vgHBM)
 - [The Well of Kuto Awaits](https://www.youtube.com/watch?v=f9B2J3zDVFs)
 - [To the Keep of Soko/al](https://www.youtube.com/watch?v=H3azgeZSeN4)
-- [Gallagher - Grandma&#39;s Sweater](https://www.youtube.com/watch?v=L8pWw7VsOSI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
