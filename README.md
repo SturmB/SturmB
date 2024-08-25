@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Bane of Bane Banishes Bane](https://www.youtube.com/watch?v=ETRxj2Bhi8Q)
 - [Becoming the Bane of Bane](https://www.youtube.com/watch?v=IWPGVP4CKys)
 - [Hanging Out at the Textile House](https://www.youtube.com/watch?v=FhMcOh6BD2U)
 - [Time for a some light reading](https://www.youtube.com/watch?v=FoIQtzeXnuA)
 - [Time for a some light reading](https://www.youtube.com/watch?v=cpeM65vgHBM)
-- [The Well of Kuto Awaits](https://www.youtube.com/watch?v=f9B2J3zDVFs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
