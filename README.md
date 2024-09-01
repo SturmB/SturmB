@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Pyramid](https://www.youtube.com/watch?v=PsvMvbI2k2A)
 - [Wild and Weird Wilderness](https://www.youtube.com/watch?v=USUoDWXkNjc)
 - [Into the Wild Blue Thither](https://www.youtube.com/watch?v=1qYGMAWu8YM)
 - [Bane of Bane Banishes Bane](https://www.youtube.com/watch?v=ETRxj2Bhi8Q)
 - [Becoming the Bane of Bane](https://www.youtube.com/watch?v=IWPGVP4CKys)
-- [Hanging Out at the Textile House](https://www.youtube.com/watch?v=FhMcOh6BD2U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
