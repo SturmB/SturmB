@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Your friendly neighborhood lizardmen](https://www.youtube.com/watch?v=rPhPjT47dKQ)
 - [An environmental subplot, perhaps?](https://www.youtube.com/watch?v=0OihPsKQWtk)
 - [The Pyramid](https://www.youtube.com/watch?v=PsvMvbI2k2A)
 - [Wild and Weird Wilderness](https://www.youtube.com/watch?v=USUoDWXkNjc)
 - [Into the Wild Blue Thither](https://www.youtube.com/watch?v=1qYGMAWu8YM)
-- [Bane of Bane Banishes Bane](https://www.youtube.com/watch?v=ETRxj2Bhi8Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
