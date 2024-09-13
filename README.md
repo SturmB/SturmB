@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Walking Dead: Valhingen Edition](https://www.youtube.com/watch?v=W4npX-aEpt0)
 - [Preparing for the Undead](https://www.youtube.com/watch?v=RFEu234tHEU)
 - [Once more out into the wilderness](https://www.youtube.com/watch?v=oLLoRTXPf8c)
 - [Your friendly neighborhood lizardmen](https://www.youtube.com/watch?v=rPhPjT47dKQ)
 - [An environmental subplot, perhaps?](https://www.youtube.com/watch?v=0OihPsKQWtk)
-- [The Pyramid](https://www.youtube.com/watch?v=PsvMvbI2k2A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
