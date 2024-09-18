@@ -56,8 +56,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Storming the Stowjanow Gate](https://www.youtube.com/watch?v=Ow5JCvDVonE)
 - [Storming the Stowjanow Gate](https://www.youtube.com/watch?v=WsH-CWnSZ1k)
+- [Storming the Stowjanow Gate](https://www.youtube.com/watch?v=Ow5JCvDVonE)
 - [The Walking Dead: Valhingen Edition](https://www.youtube.com/watch?v=W4npX-aEpt0)
 - [Preparing for the Undead](https://www.youtube.com/watch?v=RFEu234tHEU)
 - [Once more out into the wilderness](https://www.youtube.com/watch?v=oLLoRTXPf8c)
