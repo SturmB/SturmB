@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Beyond Good and Evil, Beyond Thunderdome,… Beyond Shadowgate!](https://www.youtube.com/watch?v=iPuny9YxUTI)
 - [Navigating a Not-so-Fun Hedge Maze](https://www.youtube.com/watch?v=ukkgpeeASqI)
 - [Navigating a Not-so-Fun Hedge Maze](https://www.youtube.com/watch?v=qmjmGSTyRfc)
 - [Storming the Stowjanow Gate](https://www.youtube.com/watch?v=WsH-CWnSZ1k)
 - [Storming the Stowjanow Gate](https://www.youtube.com/watch?v=Ow5JCvDVonE)
-- [The Walking Dead: Valhingen Edition](https://www.youtube.com/watch?v=W4npX-aEpt0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
