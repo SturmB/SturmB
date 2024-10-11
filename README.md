@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Forest Maze](https://www.youtube.com/watch?v=3eaWeGxsg1c)
 - [A false ending?](https://www.youtube.com/watch?v=ZNB9W5a0h74)
 - [I&#39;m sorry, I just can&#39;t get Beyond Shadowgate](https://www.youtube.com/watch?v=5D5XLhVGfhQ)
 - [Beyond Good and Evil, Beyond Thunderdome,… Beyond Shadowgate!](https://www.youtube.com/watch?v=iPuny9YxUTI)
 - [Navigating a Not-so-Fun Hedge Maze](https://www.youtube.com/watch?v=ukkgpeeASqI)
-- [Navigating a Not-so-Fun Hedge Maze](https://www.youtube.com/watch?v=qmjmGSTyRfc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
