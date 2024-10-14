@@ -56,8 +56,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Shadowgate Meets Stargate](https://www.youtube.com/watch?v=YJhLJ4HnSCo)
 - [The Forest Maze](https://www.youtube.com/watch?v=00dM_nyI2wY)
+- [Shadowgate Meets Stargate](https://www.youtube.com/watch?v=YJhLJ4HnSCo)
 - [The Forest Maze](https://www.youtube.com/watch?v=3eaWeGxsg1c)
 - [A false ending?](https://www.youtube.com/watch?v=ZNB9W5a0h74)
 - [I&#39;m sorry, I just can&#39;t get Beyond Shadowgate](https://www.youtube.com/watch?v=5D5XLhVGfhQ)
