@@ -56,8 +56,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [From Extreme Heat to Extreme Cold](https://www.youtube.com/watch?v=vWL_VCeJnM4)
 - [A Haunted House. How Appropriate.](https://www.youtube.com/watch?v=L_kf7Kug_qc)
-- [The Forest Maze](https://www.youtube.com/watch?v=00dM_nyI2wY)
 - [Shadowgate Meets Stargate](https://www.youtube.com/watch?v=YJhLJ4HnSCo)
 - [The Forest Maze](https://www.youtube.com/watch?v=3eaWeGxsg1c)
 - [A false ending?](https://www.youtube.com/watch?v=ZNB9W5a0h74)
