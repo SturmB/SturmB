@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [More Mines Means More Monsters](https://www.youtube.com/watch?v=i5E5CcbBvvc)
 - [From Extreme Heat to Extreme Cold](https://www.youtube.com/watch?v=vWL_VCeJnM4)
 - [A Haunted House. How Appropriate.](https://www.youtube.com/watch?v=L_kf7Kug_qc)
 - [Shadowgate Meets Stargate](https://www.youtube.com/watch?v=YJhLJ4HnSCo)
 - [The Forest Maze](https://www.youtube.com/watch?v=3eaWeGxsg1c)
-- [A false ending?](https://www.youtube.com/watch?v=ZNB9W5a0h74)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
