@@ -56,7 +56,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Extra Life 2024 - Bioshock Remastered](https://www.youtube.com/watch?v=ZsQ0sGt6HtA)
+- [Extra Life 2024 - Tomb Raider I Remastered](https://www.youtube.com/watch?v=ZsQ0sGt6HtA)
 - [The Living Castle Won&#39;t Be Much Longer](https://www.youtube.com/watch?v=BrJJo23p-1A)
 - [More Mines Means More Monsters](https://www.youtube.com/watch?v=i5E5CcbBvvc)
 - [From Extreme Heat to Extreme Cold](https://www.youtube.com/watch?v=vWL_VCeJnM4)
