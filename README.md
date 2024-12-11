@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [When is an Indy game not an Indy game?](https://www.youtube.com/watch?v=0OL1xWxb6NQ)
 - [Life Imitates Art, part 1](https://www.youtube.com/watch?v=HtCepP7wzCM)
 - [The Living Castle Won&#39;t Be Much Longer](https://www.youtube.com/watch?v=BrJJo23p-1A)
 - [More Mines Means More Monsters](https://www.youtube.com/watch?v=i5E5CcbBvvc)
 - [From Extreme Heat to Extreme Cold](https://www.youtube.com/watch?v=vWL_VCeJnM4)
-- [A Haunted House. How Appropriate.](https://www.youtube.com/watch?v=L_kf7Kug_qc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
