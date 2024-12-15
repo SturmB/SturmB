@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Streaming two days after Friday XIII](https://www.youtube.com/watch?v=CA06L9Qp5hE)
+- [Streaming two days after Friday XIII](https://www.youtube.com/watch?v=dZvuDaibbpU)
 - [The Thing on this stream is The Thing. Remastered.](https://www.youtube.com/watch?v=pm0nG6ok6fE)
 - [When is an Indy game not an Indy game?](https://www.youtube.com/watch?v=0OL1xWxb6NQ)
 - [Life Imitates Art, part 1](https://www.youtube.com/watch?v=HtCepP7wzCM)
-- [The Living Castle Won&#39;t Be Much Longer](https://www.youtube.com/watch?v=BrJJo23p-1A)
-- [More Mines Means More Monsters](https://www.youtube.com/watch?v=i5E5CcbBvvc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
