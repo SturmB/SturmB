@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [XIII is MY lucky number](https://www.youtube.com/watch?v=uKrRiHWT_7o)
 - [XIII is MY lucky number](https://www.youtube.com/watch?v=vmUiFDsWgG0)
 - [Streaming two days after Friday XIII](https://www.youtube.com/watch?v=CA06L9Qp5hE)
 - [Streaming two days after Friday XIII](https://www.youtube.com/watch?v=dZvuDaibbpU)
 - [The Thing on this stream is The Thing. Remastered.](https://www.youtube.com/watch?v=pm0nG6ok6fE)
-- [When is an Indy game not an Indy game?](https://www.youtube.com/watch?v=0OL1xWxb6NQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
