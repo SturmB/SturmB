@@ -56,8 +56,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [XIII is MY lucky number](https://www.youtube.com/watch?v=uKrRiHWT_7o)
 - [XIII is MY lucky number](https://www.youtube.com/watch?v=vmUiFDsWgG0)
+- [XIII is MY lucky number](https://www.youtube.com/watch?v=uKrRiHWT_7o)
 - [Streaming two days after Friday XIII](https://www.youtube.com/watch?v=CA06L9Qp5hE)
 - [Streaming two days after Friday XIII](https://www.youtube.com/watch?v=dZvuDaibbpU)
 - [The Thing on this stream is The Thing. Remastered.](https://www.youtube.com/watch?v=pm0nG6ok6fE)
