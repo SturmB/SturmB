@@ -56,8 +56,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [The Final XIII?](https://www.youtube.com/watch?v=lJvKyPhwbBU)
 - [The Final XIII?](https://www.youtube.com/watch?v=K70XBrfcrfc)
+- [The Final XIII?](https://www.youtube.com/watch?v=lJvKyPhwbBU)
 - [XIII is MY lucky number](https://www.youtube.com/watch?v=uKrRiHWT_7o)
 - [XIII is MY lucky number](https://www.youtube.com/watch?v=vmUiFDsWgG0)
 - [Streaming two days after Friday XIII](https://www.youtube.com/watch?v=CA06L9Qp5hE)
