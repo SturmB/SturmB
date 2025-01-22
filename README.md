@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Colossally Stuck](https://www.youtube.com/watch?v=3ydu5ewlkew)
 - [A Colossal Waste of Time](https://www.youtube.com/watch?v=X_1mzMWlBo4)
 - [A Colossal Cave Crawl Curbing Colds](https://www.youtube.com/watch?v=neGXX13LUpE)
 - [A Big Cave? A Huge Cave? A…Colossal Cave?](https://www.youtube.com/watch?v=RS08eY8P4l4)
 - [The Final XIII?](https://www.youtube.com/watch?v=K70XBrfcrfc)
-- [The Final XIII?](https://www.youtube.com/watch?v=lJvKyPhwbBU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
