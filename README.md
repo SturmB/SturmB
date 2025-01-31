@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [King&#39;s Quest 10th Anniversary Stream](https://www.youtube.com/watch?v=qADfJ4CpjK8)
 - [King&#39;s Quest 10th Anniversary Stream](https://www.youtube.com/watch?v=mCEzM06-y3w)
 - [King&#39;s Quest 10th Anniversary Stream](https://www.youtube.com/watch?v=Mx9BXK1qD5g)
 - [King&#39;s Quest 10th Anniversary Stream](https://www.youtube.com/watch?v=NAxA6zhju7E)
 - [Colossally Stuck](https://www.youtube.com/watch?v=3ydu5ewlkew)
-- [A Colossal Waste of Time](https://www.youtube.com/watch?v=X_1mzMWlBo4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
