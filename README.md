@@ -56,8 +56,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [King&#39;s Quest 10th Anniversary Stream](https://www.youtube.com/watch?v=89zN1Ueu2Bc)
 - [King&#39;s Quest 10th Anniversary Stream](https://www.youtube.com/watch?v=4sSRNX9GZ_Y)
+- [King&#39;s Quest 10th Anniversary Stream](https://www.youtube.com/watch?v=89zN1Ueu2Bc)
 - [King&#39;s Quest 10th Anniversary Stream](https://www.youtube.com/watch?v=dVmkdoU_FKc)
 - [King&#39;s Quest 10th Anniversary Stream](https://www.youtube.com/watch?v=9rWyZplquZQ)
 - [King&#39;s Quest 10th Anniversary Stream](https://www.youtube.com/watch?v=qADfJ4CpjK8)
