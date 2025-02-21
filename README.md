@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Just a quiet, cozy drive along the Pacific…](https://www.youtube.com/watch?v=tJYTVtSGxRI)
 - [King&#39;s Quest 10th Anniversary Stream](https://www.youtube.com/watch?v=SD8pmBJI9LA)
 - [King&#39;s Quest 10th Anniversary Stream](https://www.youtube.com/watch?v=iyJIsXZ3EY4)
 - [King&#39;s Quest 10th Anniversary Stream](https://www.youtube.com/watch?v=sKOmPpLQW0c)
 - [King&#39;s Quest 10th Anniversary Stream](https://www.youtube.com/watch?v=89zN1Ueu2Bc)
-- [King&#39;s Quest 10th Anniversary Stream](https://www.youtube.com/watch?v=4sSRNX9GZ_Y)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
