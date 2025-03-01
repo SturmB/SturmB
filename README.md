@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Razor-sharp wit? Mine dulled years ago.](https://www.youtube.com/watch?v=6F_WhfxWuxI)
 - [It&#39;s a mystery to me](https://www.youtube.com/watch?v=P8swi8kQjEU)
 - [Everybody loves fetch quests!](https://www.youtube.com/watch?v=j_MRM9Z_1lM)
 - [Just a quiet, cozy drive along the Pacific…](https://www.youtube.com/watch?v=tJYTVtSGxRI)
 - [King&#39;s Quest 10th Anniversary Stream](https://www.youtube.com/watch?v=SD8pmBJI9LA)
-- [King&#39;s Quest 10th Anniversary Stream](https://www.youtube.com/watch?v=iyJIsXZ3EY4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
