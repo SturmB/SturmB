@@ -56,8 +56,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Getting the gang back together…for the first time](https://www.youtube.com/watch?v=SHCVs13Kh1s)
 - [Getting the gang back together…for the first time](https://www.youtube.com/watch?v=dIUBCYA5kV4)
+- [Getting the gang back together…for the first time](https://www.youtube.com/watch?v=SHCVs13Kh1s)
 - [Razor-sharp wit? Mine dulled years ago.](https://www.youtube.com/watch?v=6F_WhfxWuxI)
 - [It&#39;s a mystery to me](https://www.youtube.com/watch?v=P8swi8kQjEU)
 - [Everybody loves fetch quests!](https://www.youtube.com/watch?v=j_MRM9Z_1lM)
