@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Can Linux Stream?](https://www.youtube.com/watch?v=1IBHrHn84Ow)
+- [Can Linux Stream?](https://www.youtube.com/watch?v=aBWfZt18Diw)
+- [Can Linux Stream?](https://www.youtube.com/watch?v=RP7FcglyikA)
 - [Can Linux Stream?](https://www.youtube.com/watch?v=pqdJq8b7Iss)
 - [Can Linux Stream?](https://www.youtube.com/watch?v=FVZ_LJ-xumA)
-- [Testing the network with Satisfactory &lpar;not 1.1&rpar;](https://www.youtube.com/watch?v=GCsvoaTRltc)
-- [What a rotten predicament this is](https://www.youtube.com/watch?v=J3rhxpuiJnA)
-- [Getting the gang back together…for the first time](https://www.youtube.com/watch?v=SHCVs13Kh1s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
