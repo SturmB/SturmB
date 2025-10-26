@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Sounds Like Quern](https://www.youtube.com/watch?v=aU2r8baHF_w)
 - [Questiom: Quern?](https://www.youtube.com/watch?v=efhVz92Tqs8)
 - [Can Linux Stream?](https://www.youtube.com/watch?v=1IBHrHn84Ow)
 - [Testing the network with Satisfactory &lpar;not 1.1&rpar;](https://www.youtube.com/watch?v=GCsvoaTRltc)
 - [What a rotten predicament this is](https://www.youtube.com/watch?v=J3rhxpuiJnA)
-- [Getting the gang back together…for the first time](https://www.youtube.com/watch?v=SHCVs13Kh1s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
