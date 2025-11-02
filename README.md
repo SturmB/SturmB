@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Questionable Queries Questing in Quern](https://www.youtube.com/watch?v=FCxyb_HYaiI)
+- [Questionable Queries Questing in Quern](https://www.youtube.com/watch?v=_l6QRZyQ9Rk)
 - [Questing in Quern](https://www.youtube.com/watch?v=1lScgqoebRY)
 - [Sounds Like Quern](https://www.youtube.com/watch?v=aU2r8baHF_w)
 - [Questiom: Quern?](https://www.youtube.com/watch?v=efhVz92Tqs8)
-- [Can Linux Stream?](https://www.youtube.com/watch?v=1IBHrHn84Ow)
-- [Testing the network with Satisfactory &lpar;not 1.1&rpar;](https://www.youtube.com/watch?v=GCsvoaTRltc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
