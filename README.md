@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Quern Ain&#39;t No Quake](https://www.youtube.com/watch?v=ewUB2xRxsvk)
 - [Quacking Quern](https://www.youtube.com/watch?v=-1AjnZ5qhls)
 - [Qwelling Quern](https://www.youtube.com/watch?v=CEUMtDTIi70)
 - [Extra Life 2025!](https://www.youtube.com/watch?v=YxXCQef9zck)
 - [Q&amp;A Qoncerning Quern](https://www.youtube.com/watch?v=tae_P2KTbi8)
-- [Questionable Queries Questing in Quern](https://www.youtube.com/watch?v=FCxyb_HYaiI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
