@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Hob-nobbing](https://www.youtube.com/watch?v=RPixUJuGaDU)
 - [The Barrow Belonging to Hob](https://www.youtube.com/watch?v=r1745Afws1U)
 - [Quern Ain&#39;t No Quake](https://www.youtube.com/watch?v=ewUB2xRxsvk)
 - [Quacking Quern](https://www.youtube.com/watch?v=-1AjnZ5qhls)
 - [Qwelling Quern](https://www.youtube.com/watch?v=CEUMtDTIi70)
-- [Extra Life 2025!](https://www.youtube.com/watch?v=YxXCQef9zck)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
