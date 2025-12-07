@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Puzzle Motherlode](https://www.youtube.com/watch?v=83Sx-spiZHQ)
 - [Hiring an Excavation Crew](https://www.youtube.com/watch?v=s_NmFwvcqXM)
 - [Leonard the Shoulder!](https://www.youtube.com/watch?v=N_3uaPsqMGY)
 - [Excavating the Ever-Elusive Barrow](https://www.youtube.com/watch?v=8gq0dzWacBU)
 - [Hob-nobbing](https://www.youtube.com/watch?v=RPixUJuGaDU)
-- [The Barrow Belonging to Hob](https://www.youtube.com/watch?v=r1745Afws1U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
