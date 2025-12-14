@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Saving Souls Under Old Skies](https://www.youtube.com/watch?v=kdsLJRShQCg)
 - [New Ground, Old Skies](https://www.youtube.com/watch?v=gMM9S66eNGQ)
 - [There No Sky Like Old Skies](https://www.youtube.com/watch?v=z4ECaQxGmDQ)
 - [The Puzzle Motherlode](https://www.youtube.com/watch?v=83Sx-spiZHQ)
 - [Hiring an Excavation Crew](https://www.youtube.com/watch?v=s_NmFwvcqXM)
-- [Leonard the Shoulder!](https://www.youtube.com/watch?v=N_3uaPsqMGY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
