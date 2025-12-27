@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Avoiding Chrovergences](https://www.youtube.com/watch?v=k5jP0VuI7Aw)
 - [Disaster at Home](https://www.youtube.com/watch?v=ZJEx3ZRAD9w)
 - [Roaring in the &#39;20s!](https://www.youtube.com/watch?v=hF6xmgIsqwM)
 - [If Quantum Leap was a Video Game](https://www.youtube.com/watch?v=mxoRE9UoYnM)
 - [Saving Souls Under Old Skies](https://www.youtube.com/watch?v=kdsLJRShQCg)
-- [New Ground, Old Skies](https://www.youtube.com/watch?v=gMM9S66eNGQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
