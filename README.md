@@ -56,8 +56,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [One Murder Before Thousands](https://www.youtube.com/watch?v=2EW66lKWb0Y)
 - [One Murder Before Thousands](https://www.youtube.com/watch?v=N-0NVd5H_Pw)
+- [One Murder Before Thousands](https://www.youtube.com/watch?v=2EW66lKWb0Y)
 - [Avoiding Chrovergences](https://www.youtube.com/watch?v=k5jP0VuI7Aw)
 - [Disaster at Home](https://www.youtube.com/watch?v=ZJEx3ZRAD9w)
 - [Roaring in the &#39;20s!](https://www.youtube.com/watch?v=hF6xmgIsqwM)
