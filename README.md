@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Final Mission](https://www.youtube.com/watch?v=SkA6Vg-p67o)
+- [Final Mission](https://www.youtube.com/watch?v=h6AqHu5xgKU)
 - [The Evil Leaper Situation](https://www.youtube.com/watch?v=ZwIP_4uZcA4)
 - [One Murder Before Thousands](https://www.youtube.com/watch?v=2EW66lKWb0Y)
 - [One Murder Before Thousands](https://www.youtube.com/watch?v=N-0NVd5H_Pw)
-- [Avoiding Chrovergences](https://www.youtube.com/watch?v=k5jP0VuI7Aw)
-- [Disaster at Home](https://www.youtube.com/watch?v=ZJEx3ZRAD9w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
