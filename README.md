@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Plot Twist](https://www.youtube.com/watch?v=xAg9Tu-mGdA)
 - [Final Mission](https://www.youtube.com/watch?v=SkA6Vg-p67o)
 - [Final Mission](https://www.youtube.com/watch?v=h6AqHu5xgKU)
 - [The Evil Leaper Situation](https://www.youtube.com/watch?v=ZwIP_4uZcA4)
 - [One Murder Before Thousands](https://www.youtube.com/watch?v=2EW66lKWb0Y)
-- [One Murder Before Thousands](https://www.youtube.com/watch?v=N-0NVd5H_Pw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
