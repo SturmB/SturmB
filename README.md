@@ -1,77 +1,72 @@
-### Hi there, I'm [Chris McGee][website] 👋🏻
+# Hi, I'm Chris McGee
 
-[![Website](https://img.shields.io/website?label=chrismcgee.info&style=for-the-badge&url=https%3A%2F%2Fchrismcgee.info)][website]
-[![Twitter Follow](https://img.shields.io/twitter/follow/SturmB?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSturmB&screen_name=SturmB)
+## Lead Software Engineer · Application Architecture & Developer Tooling
 
-## I'm a full-stack web developer with a preference for front-end development
+I build dependable production software and the engineering systems that help
+teams deliver it well. My background spans **13 years** of PHP/Laravel and
+JavaScript development, application architecture, testing, CI/CD, technical
+leadership, and AI-assisted development workflows.
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Teach myself the basics of AWS
-- ⚡ Fun fact: I love to stream video games [on Twitch][twitch]!
+[![LinkedIn][linkedin-badge]][linkedin] [![Website][website-badge]][website]
 
-### Connect with me:
+📍 Ohio · Open to full-time remote **Senior, Lead, Staff, and Technical Lead**
+opportunities across the United States
 
-[<img align="left" alt="chrismcgee.info" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="SturmB | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="SturmB | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="SturmB | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sturm | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## What I bring
 
-<br />
+- Advanced from Associate to Senior to **Lead Software Engineer** through two
+  promotions at Integrity Express Logistics.
+- Led **4–6 developers** through technical design, mentoring, pair programming,
+  standups, and day-to-day delivery.
+- Co-developed a high-throughput internal platform used by several hundred
+  employees across North America.
+- Co-led adoption of Claude Code and reusable AI-assisted workflows across
+  **25+ colleagues** in engineering, DevOps, QA, product, and other business
+  functions.
+- Care deeply about maintainable architecture, useful automation, strong tests,
+  code review, and developer experience.
 
-### Languages and Tools:
+## Selected work
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+### [Solamnia Member Portal](https://github.com/SturmB/solamnia-portal)
 
-<br />
-<br />
+An active Laravel 13 and PHP 8.4/8.5 application for a self-hosted member portal,
+designed around federated identity, invitations, newsletters, and a members-only
+knowledge base. The repository demonstrates domain modeling, architectural
+decision records, Pest tests, PHPStan analysis, Pint formatting, container
+builds, and a multi-version CI matrix.
 
----
+### [Scrob Temporary List Sorter](https://github.com/SturmB/scrob-list-sorter)
 
-### 📕 Latest Blog Posts
+A published, privacy-conscious userscript that adds sorting and media-type
+filtering to self-hosted Scrob list pages without changing server data. It
+includes focused DOM tests, continuous integration, release documentation, and
+distribution through
+[Greasy Fork](https://greasyfork.org/en/scripts/591080-scrob-temporary-list-sorter).
 
-<!-- BLOG-POST-LIST:START -->
-- [Getting Plugins to Load in Generator-Core](https://chrismcgee.info/getting-plugins-to-load-in-generator-core/)
-- [Why Your Generator App Isn’t Connecting to Adobe Photoshop](https://chrismcgee.info/why-your-generator-app-isnt-connecting-to-adobe-photoshop/)
-- [Getting NW.js to run on Windows](https://chrismcgee.info/getting-nwjs-to-run-on-windows/)
-<!-- BLOG-POST-LIST:END -->
+### [Breath of the Wild Armor Upgrade Tracker](https://github.com/SturmB/botw-armor-upgrade-tracker)
 
-➡️ [more blog posts...][website]
+A [deployed Laravel application](https://botw.armortracker.com/) for tracking
+armor upgrades and required materials. Its optimization work reduced a core view
+from **247 database queries to 16**, with Redis caching used to improve repeated
+access.
 
----
+## Core toolbox
 
-### 📺 Latest YouTube Videos
+- **Backend:** PHP · Laravel · REST APIs · MySQL · Redis
+- **Frontend:** JavaScript · Vue · Inertia.js · Livewire · React
+- **Quality:** Pest · PHPUnit · PHPStan · Rector · automated review · code review
+- **Delivery:** GitHub Actions · CI/CD · Docker · Ansible · AWS · Kubernetes · Helm
+- **Leadership:** Technical design · mentoring · pair programming · interviewing
+  · developer tooling
 
-<!-- YOUTUBE:START -->
-- [Plot Twist](https://www.youtube.com/watch?v=xAg9Tu-mGdA)
-- [Final Mission](https://www.youtube.com/watch?v=SkA6Vg-p67o)
-- [Final Mission](https://www.youtube.com/watch?v=h6AqHu5xgKU)
-- [The Evil Leaper Situation](https://www.youtube.com/watch?v=ZwIP_4uZcA4)
-- [One Murder Before Thousands](https://www.youtube.com/watch?v=2EW66lKWb0Y)
-<!-- YOUTUBE:END -->
+## Beyond the code
 
-➡️ [more videos...][youtube]
+I am an annual [Extra Life](https://www.extra-life.org/) participant, completing
+a 24-hour gaming marathon to raise money for Children's Miracle Network
+Hospitals. I also enjoy video production, streaming, and 3D printing.
 
----
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SturmB&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-[website]:https://chrismcgee.info
-[youtube]:https://www.youtube.com/sturmb
-[twitter]:https://twitter.com/SturmB
-[linkedin]:https://www.linkedin.com/in/mcgee/
-[instagram]:https://www.instagram.com/sturm/
-[twitch]:https://twitch.tv/sturmb
+[linkedin]: https://www.linkedin.com/in/mcgee/
+[linkedin-badge]: https://img.shields.io/badge/LinkedIn-Connect-7442A8?style=flat-square&logo=linkedin&logoColor=white
+[website]: https://chrismcgee.info
+[website-badge]: https://img.shields.io/badge/Web-chrismcgee.info-7442A8?style=flat-square&logo=googlechrome&logoColor=white
