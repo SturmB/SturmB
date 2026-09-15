@@ -60,6 +60,13 @@ access.
 - **Leadership:** Technical design · mentoring · pair programming · interviewing
   · developer tooling
 
+## Certificates
+
+A dedicated space for completed courses and future professional-development
+certificates.
+
+[![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/5ac3bb7c-515c-4060-a687-651f203c7f38.jpeg?v=1789483808)](https://www.boot.dev/certificates/5ac3bb7c-515c-4060-a687-651f203c7f38)
+
 ## Beyond the code
 
 I am an annual [Extra Life](https://www.extra-life.org/) participant, completing
